@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Exam Review
+</name>
+</assembly>
+<members>
+<member name="T:Exam_Review.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Exam_Review.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Exam_Review.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Exam_Review.DBController.controlDB(System.String)">
+ <summary>
+ Test the connection
+ </summary>
+ <param name="connectString">Connect String</param>
+ <returns>Result of test</returns>
+</member>
+<member name="M:Exam_Review.DBController.controlDB(System.String,System.String)">
+ <summary>
+ Use for Insert, Update, Delete Command SQL
+ </summary>
+ <param name="connectString">Connect String</param>
+ <param name="queryString">Query String</param>
+ <returns>Result of Command SQL</returns>
+</member>
+<member name="M:Exam_Review.DBController.controlDB(System.String,System.String,System.Boolean)">
+ <summary>
+ Use for select command SQL
+ </summary>
+ <param name="connectString">Connect String</param>
+ <param name="queryString">Query String</param>
+ <param name="IsItASelectQuery">TRUE</param>
+ <returns>Virtual Table from select command</returns>
+</member>
+</members>
+</doc>
