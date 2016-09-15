@@ -9,3 +9,4 @@ D:\Learn\VB\ExamReview\Exam Review\Exam Review\obj\Debug\Exam Review.exe
 D:\Learn\VB\ExamReview\Exam Review\Exam Review\obj\Debug\Exam Review.xml
 D:\Learn\VB\ExamReview\Exam Review\Exam Review\obj\Debug\Exam Review.pdb
 D:\Learn\VB\ExamReview\Exam Review\Exam Review\obj\Debug\Exam_Review.Form1.resources
+D:\Learn\VB\ExamReview\Exam Review\Exam Review\obj\Debug\Exam_Review.Form2.resources
